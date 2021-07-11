@@ -1,9 +1,14 @@
-![a_f719f49c0f7e864ef6e83a051ebe6644](https://user-images.githubusercontent.com/74107109/125193282-4874f500-e269-11eb-9ad6-cd2a3228935e.gif)
-# Oh, hello there! 👋
+<p align="center">    
+    <img style="border-radius: 100px" width="128" height="128" src="https://user-images.githubusercontent.com/74107109/125193859-50826400-e26c-11eb-8b01-1161a52dcb85.gif">
+</p>
+<h1 align="center">Dreamer Uve</h1>
 
-Welcome to my page!
-My name is **Yuvraj** but I go by **Uve**. I am a full-stack discord bot developer , gamer and a content creator specialising in Embedded JavaScript, HTML, CSS, JavaScript, and more. 
-I am also experienced in MongoDB and Quick.DB.
+### Ohayo
+My name is **Yuvraj** but I go by **Uve**. I am a full-stack discord bot developer , gamer and a content creator specialising in Embedded JavaScript, HTML, CSS, JavaScript, and more and mostly I keep my github repositories private.
+
+#### I almost experienced in
+1. Node.js
+2. Go
 
 ### Contact and Info 💻
 
