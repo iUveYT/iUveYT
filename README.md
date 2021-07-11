@@ -19,8 +19,8 @@ My name is **Yuvraj** but I go by **Uve**. I am a full-stack discord bot develop
 
 ---
 ### 👩‍🏫 I am currently learning:
-1. JDA ( Java Discord API )
-2. Discord.go
+1. JDA ( Java Discord API ) ➜ [Github](https://github.com/DV8FromTheWorld/JDA) | [Discord](https://discord.gg/jda)
+2. Discord.go ➜ [Github](https://github.com/bwmarrin/discordgo) | [Discord](https://discord.gg/0f1SbxBZjYq9jLBk)
 
 ---
 ### 💰 Commission Status:
