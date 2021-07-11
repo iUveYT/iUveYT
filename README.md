@@ -1,7 +1,8 @@
+![a_f719f49c0f7e864ef6e83a051ebe6644](https://user-images.githubusercontent.com/74107109/125193282-4874f500-e269-11eb-9ad6-cd2a3228935e.gif)
 # Oh, hello there! 👋
 
 Welcome to my page!
-My name is **Yuvraj** but I go by **Uve**. I am a full-stack discord bot developer specialising in Embedded JavaScript, HTML, CSS, JavaScript, and more.
+My name is **Yuvraj** but I go by **Uve**. I am a full-stack discord bot developer , gamer and a content creator specialising in Embedded JavaScript, HTML, CSS, JavaScript, and more. 
 I am also experienced in MongoDB and Quick.DB.
 
 ### Contact and Info 💻
