@@ -4,7 +4,7 @@
 <h1 align="center">Dreamer Uve</h1>
 
 ### Ohayo
-My name is **Yuvraj** but I go by **Uve**. I am a full-stack discord bot developer , gamer and a content creator specialising in Embedded JavaScript, HTML, CSS, JavaScript, and more and mostly I keep my github repositories private.
+My name is **Yuvraj** but I go by **Uve**. I am a full-stack discord bot developer , gamer and a content creator specialising in Embedded JavaScript, HTML, CSS, Go, and more and mostly I keep my github repositories private.
 
 #### I almost experienced in
 1. Node.js
