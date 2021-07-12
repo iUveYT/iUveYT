@@ -1,3 +1,4 @@
+<body bgcolor="dark blue">
 <p align="center">    
     <img style="border-radius: 100px" width="128" height="128" src="https://user-images.githubusercontent.com/74107109/125193859-50826400-e26c-11eb-8b01-1161a52dcb85.gif">
 </p>
@@ -61,3 +62,4 @@ You can reach me in any way listed below:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamer-Uve&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 # 
+</body>
