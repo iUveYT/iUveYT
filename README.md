@@ -25,7 +25,7 @@ My name is **Yuvraj** but I go by **Uve**. I am a full-stack discord bot develop
 
 ---
 ### 💰 Commission Status:
-Open for commissions | DM me on [Discord](https://dsc.gg/rdtc)
+Nope
 
 ---
 ### ❓ Looking for help:
