@@ -16,7 +16,7 @@ My name is **Yuvraj** but I go by **Uve**. I am a full-stack discord bot develop
 1. Discord BotList
 2. Uve The MustiFunction Discord Bot
 3. GiFT The Giveaway Discord Bot and its Website
-4. Advertising TuMusic ➜ [TuMusic Invite](https://dsc.gg/tum) | [Website](https://Tu.dreameruve.repl.co/) | [Vote In DisBotList](https://disbotlist.xyz/bot/839699231983403019/vote) | [Vote In PublicBots.eu](https://bot-list.publicbots.eu/bot/839699231983403019/) | More Soon...
+4. Advertising TuMusic ➜ [TuMusic Invite](https://dsc.gg/tum) | [Website](https://Tu.dreameruve.repl.co/) | [Vote In DisBotList](https://disbotlist.xyz/bot/839699231983403019/vote) | [Vote In PublicBots.eu](https://bot-list.publicbots.eu/bot/839699231983403019/) | [Vote In Milrato Botlist](https://botlist.milrato.eu/bot/839699231983403019/vote) | More Soon...
 
 ---
 ### 👩‍🏫 I am currently learning:
@@ -25,7 +25,7 @@ My name is **Yuvraj** but I go by **Uve**. I am a full-stack discord bot develop
 
 ---
 ### 💰 Commission Status:
-Nope
+Nope.
 
 ---
 ### ❓ Looking for help:
@@ -34,7 +34,7 @@ Nope.
 ---
 ### 📧 How you can reach me:
 You can reach me in any way listed below:
-1. Discord: Dreamer Uve#0001
+1. Discord: -Yuvraj#0001
 2. [Youtube](https://rotf.lol/Uve-FF)
 3. [Instagram](https://www.instagram.com/v_uve.ff)
 
