@@ -1,7 +1,7 @@
 <p align="center">    
-    <img style="border-radius: 100px" width="128" height="128" src="https://user-images.githubusercontent.com/74107109/125193859-50826400-e26c-11eb-8b01-1161a52dcb85.gif">
+    <img style="border-radius: 100px" width="128" height="128" src="https://user-images.githubusercontent.com/74107109/132080447-f6ca3c1f-6a21-442a-a1a8-a1ba4d8810df.png">
 </p>
-<h1 align="center">Dreamer Uve</h1>
+<h1 align="center">Uve</h1>
 
 ### Ohayo
 My name is **Yuvraj** but I go by **Uve**. I am a full-stack discord bot developer , gamer and a content creator specialising in Embedded JavaScript, HTML, CSS, Go, and more and mostly I keep my github repositories private.
