@@ -13,8 +13,8 @@ My name is **Yuvraj** but I go by **Uve**. I am a full-stack discord bot develop
 ### Contact and Info 💻
 
 ### 👨‍💻 I am currently working on:
-1.PY4Discord ➜ An API wrapper for Discord written in Python.
-2. Advertising TuMusic ➜ [TuMusic Invite](https://dsc.gg/tum) | [Website](https://Tu.dreameruve.repl.co/) | [Vote In DisBotList](https://disbotlist.xyz/bot/839699231983403019/vote) | [Vote In PublicBots.eu](https://bot-list.publicbots.eu/bot/839699231983403019/) | [Vote In Milrato Botlist](https://botlist.milrato.eu/bot/839699231983403019/vote) | [TOP.GG](https://top.gg/bot/839699231983403019/vote)
+1. PY4Discord ➜ An API wrapper for Discord written in Python.
+2. Advertising TuMusic ➜ [TuMusic Invite](https://dsc.gg/tum) | [Website](https://Tu.dreameruve.repl.co/) | [TOP.GG](https://top.gg/bot/839699231983403019/vote)
 
 ---
 ### 👩‍🏫 I am currently learning:
