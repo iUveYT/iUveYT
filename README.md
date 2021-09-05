@@ -1,7 +1,7 @@
 <p align="center">    
-    <img style="border-radius: 100px" width="128" height="128" src="https://user-images.githubusercontent.com/74107109/132130927-93ef6151-cc5a-49d3-9831-1f9ff14644ed.png">
+    <img style="border-radius: 100px" width="200" height="200" src="https://user-images.githubusercontent.com/74107109/132131106-624ef91b-bb04-489e-985b-8bc59ee13c18.png">
 </p>
-<h1 align="center">Uve</h1>
+<h1 align="center">iUveYT</h1>
 
 ### Ohayo
 My name is **Yuvraj** but I go by **Uve**. I am a full-stack discord bot developer , gamer and a content creator specialising in Embedded JavaScript, HTML, CSS, Go, and more and mostly I keep my github repositories private.
@@ -9,12 +9,12 @@ My name is **Yuvraj** but I go by **Uve**. I am a full-stack discord bot develop
 #### I almost experienced in
 1. Node.js
 2. Go
+---
 
 ### Contact and Info 💻
 
 ### 👨‍💻 I am currently working on:
-1. PY4Discord ➜ An API wrapper for Discord written in Python.
-2. Advertising TuMusic ➜ [TuMusic Invite](https://dsc.gg/tum) | [Website](https://Tu.dreameruve.repl.co/) | [TOP.GG](https://top.gg/bot/839699231983403019/vote)
+1. Advertising TuMusic ➜ [TuMusic Invite](https://dsc.gg/tum) | [Website](https://Tu.dreameruve.repl.co/) | [TOP.GG](https://top.gg/bot/839699231983403019/vote)
 
 ---
 ### 👩‍🏫 I am currently learning:
