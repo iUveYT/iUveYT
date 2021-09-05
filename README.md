@@ -52,9 +52,9 @@ You can reach me in any way listed below:
 ---
 
 ### Stats
-![trophy](https://github-profile-trophy.vercel.app/?username=Dreamer-Uve&theme=gruvbox)
+![trophy](https://github-profile-trophy.vercel.app/?username=iUveYT&theme=gruvbox)
 
-![stats](https://github-readme-stats.vercel.app/api?username=Dreamer-Uve&show_icons=true&theme=radical) 
+![stats](https://github-readme-stats.vercel.app/api?username=iUveYT&show_icons=true&theme=radical) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamer-Uve&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iUveYT&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 # 
