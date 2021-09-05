@@ -31,7 +31,7 @@ Nope.
 ---
 ### 📧 How you can reach me:
 You can reach me in any way listed below:
-1. Discord: -Yuvraj#0001
+    1. Discord: Uve#0002 | [Community Server](https://discord.gg/k8QV8EPnXB)
 2. [Youtube](https://rotf.lol/Uve-FF)
 3. [Instagram](https://www.instagram.com/v_uve.ff)
 
