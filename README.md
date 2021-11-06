@@ -14,7 +14,7 @@ My name is **Yuvraj** but I go by **Uve**. I am a full-stack discord bot develop
 ### Contact and Info 💻
 
 ### 👨‍💻 I am currently working on:
-1. Advertising TuMusic ➜ [TuMusic Invite](https://dsc.gg/tum) | [Website](https://Tu.dreameruve.repl.co/) | [TOP.GG](https://top.gg/bot/839699231983403019/vote)
+1. Recreating My Music Bot
 
 ---
 ### 👩‍🏫 I am currently learning:
