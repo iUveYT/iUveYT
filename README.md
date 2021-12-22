@@ -46,7 +46,6 @@ You can reach me in any way listed below:
 2. DisBotList ➜ [Website](https://disbotlist.xyz) | [Discord Server](https://discord.gg/disbotlist) | [Twitter](https://twitter.com/BotlistDis) | [Github](https://github.com/disbotlist-xyz)
 3. BHBotList ➜ [Website](https://bhbotlist.xyz) | [Discord Server](https://discord.gg/wqvPjmJ36Y) | [Github](https://github.com/bhbotlist-xyz) | [Youtube](https://www.youtube.com/channel/UC8kszW3C8Qtrnn4WTegl4PQ)
 4. Milrato Development ➜ [Youtube](https://www.youtube.com/c/Tomato6966) | [Twitter](https://twitter.com/MilratoDev) | [Instagram](https://www.instagram.com/MilratoDev/) | [Patreon](https://www.patreon.com/MilratoDevelopment?fan_landing=true) | [Discord](https://discord.gg/XyrqcdS) | [Github](https://github.com/Tomato6966) | [Website](https://milrato.eu)
-5. PublicBots ➜ [Website](https://bot-list.publicbots.eu/) | [Discord](https://discord.gg/dT6pwYwsrf)
 
 ---
 
